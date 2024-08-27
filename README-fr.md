@@ -1,4 +1,4 @@
-![Capture d'écran du modèle de CV](./demo/screenshot-1.png)
+![Capture d'écran du modèle de CV](./demo/screenshot-1-fr.png)
 
 Un modèle de CV moderne et personnalisable pour les étudiants en programme coopératif de l'Université Concordia, implémenté avec Typst.
 
